@@ -35,17 +35,17 @@ Funding and conflict of interest: non-funded research, no conflict of interestin
 
 # 5. Libraries used to project
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from imblearn.over_sampling import RandomOverSampler
-from imblearn.under_sampling import RandomUnderSampler 
-from imblearn.over_sampling import SMOTE
-from sklearn.linear_model import LogisticRegression
-from collections import Counter
-from sklearn.datasets import make_classification
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from imblearn.over_sampling import RandomOverSampler
+- from imblearn.under_sampling import RandomUnderSampler 
+- from imblearn.over_sampling import SMOTE
+- from sklearn.linear_model import LogisticRegression
+- from collections import Counter
+- from sklearn.datasets import make_classification
+- from sklearn.model_selection import train_test_split
+- from sklearn.metrics import accuracy_score
 
 # 6. Project plan
 
