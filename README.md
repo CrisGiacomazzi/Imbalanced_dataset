@@ -67,7 +67,8 @@ The undersampling model has slightly lower accuracy on the training set compared
 The model trained with SMOTE has the same training and test accuracy as the undersampling approach. This indicates that SMOTE provides balanced data similar to undersampling in terms of performance, but with synthetic samples that might better represent variations within the minority class.
 
 # 10. Conclusion
-Based on the metrics, I will choose SMOTE, as it generates new instances by selecting a random example from the minority class and creating synthetic samples, thereby providing a balanced and representative dataset for improved model generalization.
+Based on the metrics, SMOTE generated synthetic samples that might better represent variations within the minority class and it will be used for handle the dataset.
+
 
 ## References
 Azank, F. Dados Desbalanceados — O que são e como lidar com eles. (2020). Medium. https://medium.com/turing-talks/dados-desbalanceados-o-que-s%C3%A3o-e-como-evit%C3%A1-los-43df4f49732b 
