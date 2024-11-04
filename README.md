@@ -74,14 +74,14 @@ Based on the metrics, SMOTE generated synthetic samples that might better repres
 ## References
 Azank, F. Dados Desbalanceados — O que são e como lidar com eles. (2020). Medium. https://medium.com/turing-talks/dados-desbalanceados-o-que-s%C3%A3o-e-como-evit%C3%A1-los-43df4f49732b 
 
-Faritha Banu, J., Neelakandan, S., Geetha, B. T., Selvalakshmi, V., Umadevi, A., & Martinson, E. O. (2022). Artificial Intelligence Based Customer Churn Prediction Model for Business Markets. Computational intelligence and neuroscience, 2022, 1703696. https://doi.org/10.1155/2022/1703696 
+Faritha, BJ; Neelakandan, S; Geetha, BT; Selvalakshmi, V; Umadevi, A; Martinson, EO. (2022). Artificial Intelligence Based Customer Churn Prediction Model for Business Markets. Computational intelligence and neuroscience, 1703696. https://doi.org/10.1155/2022/1703696 
 
-Wilde. A. (2023). How to approach customer churn measurement in banking. UXPRESSIA. https://uxpressia.com/blog/how-to-approach-customer-churn-measurement-in-banking#Five_steps_to_stop_customers_from_leaving 
+Wilde, A. (2023). How to approach customer churn measurement in banking. UXPRESSIA. https://uxpressia.com/blog/how-to-approach-customer-churn-measurement-in-banking#Five_steps_to_stop_customers_from_leaving 
 
 Michael, J. (2022). Bank Customer Churn Prediction Using Machine Learning. Analytics Vidhya. 
 https://www.analyticsvidhya.com/blog/2022/09/bank-customer-churn-prediction-using-machine-learning/ 
 
-Trotta, F.; Ackerson, D. (2024). How to Handle Imbalanced Data for Machine Learning in Python.  https://semaphoreci.com/blog/imbalanced-data-machine-learning-python 
+Trotta, F; Ackerson, D. (2024). How to Handle Imbalanced Data for Machine Learning in Python. https://semaphoreci.com/blog/imbalanced-data-machine-learning-python 
 
 
 
