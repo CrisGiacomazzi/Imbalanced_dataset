@@ -3,6 +3,7 @@
 Cristiane Mecca Giacomazzi (Data Analyst)
 The following topics will be presented:
 1.Problem Understanding
+
 2.Data Understanding
 3.Ethical Statements
 4.Dictionary
