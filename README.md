@@ -1,18 +1,18 @@
 # Handle unbalanced Datasets
 
-Cristiane Mecca Giacomazzi (Data Analyst)
+Cristiane Mecca Giacomazzi (Data Analyst).
 The following topics will be presented:
 
-1.Problem Understanding
-2.Data Understanding
-3.Ethical Statements
-4.Dictionary
-5.Libraries used for this project
-6.Project plan
-7.Data Preprocessing
-8.Handle unbalanced dataset
-9.Interpretation
-10.Conclusion
+##1.Problem Understanding
+##2.Data Understanding
+##3.Ethical Statements
+##4.Dictionary
+##5.Libraries used for this project
+##6.Project plan
+##7.Data Preprocessing
+##8.Handle unbalanced dataset
+##9.Interpretation
+##10.Conclusion
 
 # 1. Problem Understanding
 
